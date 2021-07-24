@@ -10,7 +10,8 @@ Dataset available at kaggle https://www.kaggle.com/aman2000jaiswal/agriculture-c
 
 ## Data Analysis
 
-![Image Categories VS Number of images in each Categories](traindata.png)
+**Image Categories VS Number of images in each Categories:**<br>
+![](traindata.png)
 
 ![](testdata.png)
 
@@ -31,10 +32,10 @@ This is the architecture of VGG16:
 # Training the model
 The total epochs applied in this model is 40, best model saved with minimum validation loss 0.2196 and these are the loss & accuracy plots:
 
-
+**Loss Plot:**<br>
 ![Loss plot](loss.png)
 
-
+**Accuracy Plot:**<br>
 ![Accuracy plot](accuracy.png)
 
 
