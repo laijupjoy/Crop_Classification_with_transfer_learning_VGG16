@@ -48,6 +48,7 @@ In this experiment, the results of classification of crop images are:<br>
 
 **Confusion Matrix:**<br>
 ![](cm1.png)
+
 ![](cm.png)
 
 **Classification Reports:**<br>
