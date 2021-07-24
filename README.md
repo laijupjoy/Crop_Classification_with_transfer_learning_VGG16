@@ -40,17 +40,17 @@ The total epochs applied in this model is 40, best model saved with minimum vali
 
 In this experiment, the results of classification of crop images are:<br>
 
-**Accuracy Plot:**
-![Accuracy Plot](accuracy.png)
+**Accuracy Plot:**<br>
+![](accuracy.png)
 
-**Loss Plot:**
-![Loss Plot](loss.png)
+**Loss Plot:**<br>
+![](loss.png)
 
-**Confusion Matrix:**
+**Confusion Matrix:**<br>
 ![](cm1.png)
 ![](cm.png)
 
-**Classification Reports:**
+**Classification Reports:**<br>
 ![Classification Reports](report.png)
 
 **Performance of the  model:**
